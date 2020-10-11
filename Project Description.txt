@@ -1,0 +1,11 @@
+Title : Covid-19 Cases
+
+Problem Statement :
+	 To analyze the Covid-19 Data associated with the India. By analyzing the data we define the statistical data required to understand how Covid-19 patients are incresed in india and the state wise patients which include confirmed patients and deaths.
+
+Problem Description : 
+	Today Covid cases are increasing day by day in all the countries across the world. The Given Dataset is the data representation of the Country India.
+	By Analyzing the Dataset we are going to check how the number of patients were increased in the india in different states. Also we are going check state wise deaths are confirmed patient numbers by using different data visualization techniques.
+	The Given Dataset and their analysis will help us to understand distribution of patients all over the india. This will help to medical service providers to provide the services in the area where more patients are located.
+	Due to Covid-19 situation more are more people are got shifted from one geographical area to another. This analysis also help them to check the localities and suggest them the right locations to live.
+
